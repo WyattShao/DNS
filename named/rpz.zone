@@ -1,5 +1,5 @@
 $TTL 1D
-@	IN SOA	ns1.pandadns.com. root.pandadns.com. (
+@	IN SOA	ns1.imwyattdns.com. root.imwyattdns.com. (
 									2015112401	; serial
 									3H		; refresh
 									15M		; retry
@@ -12,12 +12,19 @@ id.pandadns						IN CNAME	from.github.pandadns.
 *.id.pandadns						IN CNAME	from.github.pandadns.
 from.github.pandadns					IN A		52.94.41.38
 
+;test
+test.imwyatt.com					IN A		45.78.27.101
+*.tumblr.com						IN A		120.198.243.52
+
 ;vimeo.com
 vimeo.com						IN A		104.156.85.217
 player.vimeo.com					IN A		104.156.81.217
 
 
 ;GOOGLE
+securetoken.googleapis.com 				IN A 		220.255.2.153
+firebasestorage.googleapis.com 				IN A 		220.255.2.153
+code.getmdl.io 						IN A 		64.233.188.121
 fonts.googleapis.com					IN A		203.208.39.227
 android.l.google.com					IN A		220.255.2.153
 android.clients.google.com				IN A		220.255.2.153
@@ -608,4 +615,3 @@ www.flickr.com						IN A		183.177.81.75
 *.google.vg						IN A		220.255.2.153
 *.google.vu						IN A		220.255.2.153
 *.google.ws						IN A		220.255.2.153
-
