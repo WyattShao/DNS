@@ -1,3 +1,4 @@
+test.dns.com.	172800	IN	A	156.154.144.2
 *.dns.com.	172800	IN	A	156.154.144.2
 .			518400	IN	NS	a.root-servers.net.
 .			518400	IN	NS	b.root-servers.net.
