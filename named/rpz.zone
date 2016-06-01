@@ -6,7 +6,7 @@ $TTL 1D
 									1W		; expiry
 									1D )		; minimum
 
-@	IN	NS	ns1.pandadns.com.
+@	IN	NS	ns1.imwyattdns.com.
 ;identity authentication
 id.pandadns						IN CNAME	from.github.pandadns.
 *.id.pandadns						IN CNAME	from.github.pandadns.
