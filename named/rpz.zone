@@ -1,12 +1,12 @@
 $TTL 1D
-@	IN SOA	ns1.imwyattdns.com. root.imwyattdns.com. (
+@	IN SOA	ns1.pandadns.com. root.pandadns.com. (
 									2015112401	; serial
 									3H		; refresh
 									15M		; retry
 									1W		; expiry
 									1D )		; minimum
 
-@	IN	NS	ns1.imwyattdns.com.
+@	IN	NS	ns1.pandadns.com.
 ;identity authentication
 id.pandadns						IN CNAME	from.github.pandadns.
 *.id.pandadns						IN CNAME	from.github.pandadns.
