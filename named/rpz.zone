@@ -14,7 +14,10 @@ from.github.pandadns					IN A		52.94.41.38
 
 ;test
 test.imwyatt.com					IN A		45.78.27.101
-*.tumblr.com						IN A		120.198.243.52
+
+;tumblr.com
+*.tumblr.com						IN A		182.254.158.191
+tumblr.com						IN A		182.254.158.191
 
 ;vimeo.com
 vimeo.com						IN A		104.156.85.217
