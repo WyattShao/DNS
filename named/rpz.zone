@@ -18,6 +18,7 @@ test.imwyatt.com					IN A		45.78.27.101
 ;tumblr.com
 *.tumblr.com						IN A		182.239.95.136
 tumblr.com						IN A		182.239.95.136
+*.assets.tumblr.com					IN A		182.239.95.136
 
 ;vimeo.com
 vimeo.com						IN A		104.156.85.217
