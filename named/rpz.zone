@@ -11,7 +11,14 @@ $TTL 1D
 id.pandadns						IN CNAME	from.github.pandadns.
 *.id.pandadns						IN CNAME	from.github.pandadns.
 from.github.pandadns					IN A		52.94.41.38
-
+;tg
+telegram.org 						IN A 		149.154.167.99 
+*.telegram.org 						IN A 		149.154.167.99 
+updates.tdesktop.com 					IN A 		149.154.167.80 
+web.telegram.org 					IN A 		149.154.167.120 
+flora.web.telegram.org 					IN A 		149.154.171.22
+telegram.me 						IN A 		149.154.167.118 
+www.telegram.me 					IN A		149.154.167.118
 ;test
 test.imwyatt.com					IN A		45.78.27.101
 
