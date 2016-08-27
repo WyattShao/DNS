@@ -23,9 +23,9 @@ www.telegram.me 					IN A		149.154.167.118
 test.imwyatt.com					IN A		45.78.27.101
 
 ;tumblr.com
-*.tumblr.com						IN A		182.239.95.136
-tumblr.com						IN A		182.239.95.136
-*.assets.tumblr.com					IN A		182.239.95.136
+*.tumblr.com						IN A		218.254.1.13
+tumblr.com						IN A		218.254.1.13
+*.assets.tumblr.com					IN A		218.254.1.13
 
 ;vimeo.com
 vimeo.com						IN A		104.156.85.217
@@ -44,9 +44,9 @@ mtalk.google.com					IN A		220.255.2.153
 abc.xyz							IN A		220.255.2.153
 dl.google.com						IN A		203.208.39.228
 google.com						IN A		220.255.2.153
-gcr.io							IN A		182.239.127.137
-www.gcr.io						IN A		182.239.127.137
-com.google						IN A		182.239.127.137
+gcr.io							IN A		218.254.1.13
+www.gcr.io						IN A		218.254.1.13
+com.google						IN A		218.254.1.13
 ingress.com                                             IN A            72.14.249.180
 
 *.android.com						IN A		220.255.2.153
@@ -67,12 +67,12 @@ ingress.com                                             IN A            72.14.24
 *.gvt3.com						IN A		220.255.2.153
 
 ;youtube
-youtu.be						IN A		182.239.95.136
-youtube.com						IN A		182.239.95.136
-*.ytimg.com						IN A		182.239.127.137
-*.youtu.be						IN A		182.239.127.137
-*.youtube.com						IN A		182.239.127.137
-*.googlevideo.com					IN A		182.239.127.137
+youtu.be						IN A		218.254.1.13
+youtube.com						IN A		218.254.1.13
+*.ytimg.com						IN A		218.254.1.13
+*.youtu.be						IN A		218.254.1.13
+*.youtube.com						IN A		218.254.1.13
+*.googlevideo.com					IN A		218.254.1.13
 
 
 ;gstaticStart
@@ -81,8 +81,8 @@ fonts.gstatic.com					IN A		203.208.43.88
 *.gstatic.com						IN A		220.255.2.153
 
 ;GoogleapisStart
-goo.gl							IN A		182.239.127.137
-g.co							IN A		182.239.127.137
+goo.gl							IN A		218.254.1.13
+g.co							IN A		218.254.1.13
 app.simplenote.com					IN A		72.14.246.169
 *.googleapis.com					IN A		220.255.2.153
 *.googlehosted.com					IN A		220.255.2.153
@@ -110,9 +110,9 @@ fbcdn.net						IN A		31.13.66.9
 scontent.xx.fbcdn.net					IN A		31.13.69.203
 video.xx.fbcdn.net					IN A		31.13.95.14
 
-*.messages-facebook.com					IN A		182.239.127.137
+*.messages-facebook.com					IN A		218.254.1.13
 *.facebook.net						IN A		104.78.23.174
-*.facebook.com						IN A		182.239.127.137
+*.facebook.com						IN A		218.254.1.13
 *.fbcdn.net 						IN A		31.13.95.14
 
 
