@@ -153,24 +153,24 @@ promoted.soundcloud.com					IN A		68.232.44.127
 visuals.soundcloud.com					IN A		68.232.44.127
 
 ;twitter
-twitter.com						IN A		104.244.42.1 
-www.twitter.com						IN A		104.244.42.1 
-api.twitter.com						IN A		104.244.42.2 
-mobile.twitter.com					IN A		104.244.42.6 
-support.twitter.com					IN A		104.244.42.7 
-upload.twitter.com					IN A		104.244.42.11 
-tweetdeck.twitter.com					IN A		104.244.42.132 
-tweetdeck.com						IN A		104.244.42.132 
-syndication.twitter.com					IN A		104.244.42.136 
-syndication-o.twitter.com				IN A		104.244.42.136 
-cdn.syndication.twimg.com				IN A		104.244.42.136 
-cdn.syndication.twitter.com				IN A		104.244.42.136 
-cdn.api.twitter.com					IN A		104.244.42.2 
-preview.cdn.twitter.com					IN A		104.244.42.1 
-t.co							IN A		104.244.42.197 
-twitpic.com						IN A		173.236.110.98 
-tinypic.com						IN A		209.17.68.209 
-twimg.com						IN A		104.244.43.199 
+twitter.com						IN A		219.76.4.14 
+www.twitter.com						IN A		219.76.4.14 
+api.twitter.com						IN A		219.76.4.14 
+mobile.twitter.com					IN A		219.76.4.14 
+support.twitter.com					IN A		219.76.4.14 
+upload.twitter.com					IN A		219.76.4.14 
+tweetdeck.twitter.com					IN A		219.76.4.14 
+tweetdeck.com						IN A		219.76.4.14 
+syndication.twitter.com					IN A		219.76.4.14 
+syndication-o.twitter.com				IN A		219.76.4.14 
+cdn.syndication.twimg.com				IN A		219.76.4.14 
+cdn.syndication.twitter.com				IN A		219.76.4.14
+cdn.api.twitter.com					IN A		219.76.4.14
+preview.cdn.twitter.com					IN A		219.76.4.14
+t.co							IN A		219.76.4.14 
+twitpic.com						IN A		219.76.4.14 
+tinypic.com						IN A		219.76.4.14 
+twimg.com						IN A		219.76.4.14 
 
 video.twimg.com						IN A		104.244.43.199
 *.twimg.com						IN A		104.244.43.199 
@@ -224,14 +224,18 @@ www.xda-developers.com 					IN A 		207.244.73.44
 xda-developers.com 					IN A 		207.244.73.44
 
 ;github
-gist.github.com						IN A		192.30.252.141
-github.com						IN A		192.30.252.131
-www.github.com 						IN A		192.30.252.131
-nodeload.github.com					IN A		192.30.252.144
-raw.github.com						IN A		103.245.222.133
-documentcloud.github.com				IN A		103.245.222.133
-developer.github.com					IN A		103.245.222.133
-api.github.com						IN A		192.30.252.126
+*.githubusercontent.com					IN A		219.76.4.14
+githubusercontent.com					IN A		219.76.4.14
+gist.github.com						IN A		219.76.4.14
+assets-cdn.github.com					IN A		219.76.4.14
+github.com						IN A		192.30.253.113
+www.github.com 						IN A		192.30.253.113
+nodeload.github.com					IN A		192.30.253.120
+raw.github.com						IN A		151.101.60.133
+help.github.com						IN A		151.101.60.133
+documentcloud.github.com				IN A		151.101.60.133
+developer.github.com					IN A		151.101.60.133
+api.github.com						IN A		192.30.253.117
 
 ;Box.com
 app.box.com						IN A            74.112.184.70
