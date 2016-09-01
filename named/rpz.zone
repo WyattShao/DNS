@@ -172,13 +172,13 @@ twitpic.com						IN A		219.76.4.14
 tinypic.com						IN A		219.76.4.14 
 twimg.com						IN A		219.76.4.14 
 
-video.twimg.com						IN A		104.244.43.199
-*.twimg.com						IN A		104.244.43.199 
-*.tinypic.com						IN A		209.17.68.209 
-*.twitpic.com						IN A		173.236.110.98 
-*.t.co							IN A		104.244.42.69 
-*.tweetdeck.com						IN A		104.244.42.132 
-*.twitter.com						IN A		104.244.42.3 
+video.twimg.com						IN A		219.76.4.14
+*.twimg.com						IN A		219.76.4.14
+*.tinypic.com						IN A		219.76.4.14
+*.twitpic.com						IN A		219.76.4.14
+*.t.co							IN A		219.76.4.14
+*.tweetdeck.com						IN A		219.76.4.14
+*.twitter.com						IN A		219.76.4.14 
 
 ;wikipedia
 wikipedia.org						IN A		198.35.26.96
