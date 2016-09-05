@@ -153,32 +153,32 @@ promoted.soundcloud.com					IN A		68.232.44.127
 visuals.soundcloud.com					IN A		68.232.44.127
 
 ;twitter
-twitter.com						IN A		219.76.4.14 
-www.twitter.com						IN A		219.76.4.14 
-api.twitter.com						IN A		219.76.4.14 
-mobile.twitter.com					IN A		219.76.4.14 
-support.twitter.com					IN A		219.76.4.14 
-upload.twitter.com					IN A		219.76.4.14 
-tweetdeck.twitter.com					IN A		219.76.4.14 
-tweetdeck.com						IN A		219.76.4.14 
-syndication.twitter.com					IN A		219.76.4.14 
-syndication-o.twitter.com				IN A		219.76.4.14 
-cdn.syndication.twimg.com				IN A		219.76.4.14 
-cdn.syndication.twitter.com				IN A		219.76.4.14
-cdn.api.twitter.com					IN A		219.76.4.14
-preview.cdn.twitter.com					IN A		219.76.4.14
-t.co							IN A		219.76.4.14 
-twitpic.com						IN A		219.76.4.14 
-tinypic.com						IN A		219.76.4.14 
-twimg.com						IN A		219.76.4.14 
+twitter.com						IN A		218.254.1.15 
+www.twitter.com						IN A		218.254.1.15 
+api.twitter.com						IN A		218.254.1.15 
+mobile.twitter.com					IN A		218.254.1.15 
+support.twitter.com					IN A		218.254.1.15 
+upload.twitter.com					IN A		218.254.1.15 
+tweetdeck.twitter.com					IN A		218.254.1.15
+tweetdeck.com						IN A		218.254.1.15
+syndication.twitter.com					IN A		218.254.1.15
+syndication-o.twitter.com				IN A		218.254.1.15 
+cdn.syndication.twimg.com				IN A		218.254.1.15
+cdn.syndication.twitter.com				IN A		218.254.1.15
+cdn.api.twitter.com					IN A		218.254.1.15
+preview.cdn.twitter.com					IN A		218.254.1.15
+t.co							IN A		218.254.1.15 
+twitpic.com						IN A		218.254.1.15
+tinypic.com						IN A		218.254.1.15
+twimg.com						IN A		218.254.1.15
 
-video.twimg.com						IN A		219.76.4.14
-*.twimg.com						IN A		219.76.4.14
-*.tinypic.com						IN A		219.76.4.14
-*.twitpic.com						IN A		219.76.4.14
-*.t.co							IN A		219.76.4.14
-*.tweetdeck.com						IN A		219.76.4.14
-*.twitter.com						IN A		219.76.4.14 
+video.twimg.com						IN A		218.254.1.15
+*.twimg.com						IN A		218.254.1.15
+*.tinypic.com						IN A		218.254.1.15
+*.twitpic.com						IN A		218.254.1.15
+*.t.co							IN A		218.254.1.15
+*.tweetdeck.com						IN A		218.254.1.15
+*.twitter.com						IN A		218.254.1.15
 
 ;wikipedia
 wikipedia.org						IN A		198.35.26.96
