@@ -111,9 +111,9 @@ scontent.xx.fbcdn.net					IN A		31.13.69.203
 video.xx.fbcdn.net					IN A		31.13.95.14
 
 *.messages-facebook.com					IN A		219.76.4.14
-*.facebook.net						IN A		104.78.23.174
+*.facebook.net						IN A		219.76.4.14
 *.facebook.com						IN A		219.76.4.14
-*.fbcdn.net 						IN A		31.13.95.14
+*.fbcdn.net 						IN A		219.76.4.14
 
 
 ;instagram
