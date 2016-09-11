@@ -11,6 +11,9 @@ $TTL 1D
 id.pandadns						IN CNAME	from.github.pandadns.
 *.id.pandadns						IN CNAME	from.github.pandadns.
 from.github.pandadns					IN A		52.94.41.38
+
+;pushbullet
+api.pushbullet.com 					IN A 		72.14.247.65
 ;tg
 telegram.org 						IN A 		149.154.167.99 
 *.telegram.org 						IN A 		149.154.167.99 
@@ -102,13 +105,13 @@ google.cn						IN A		203.208.43.114
 *.google.cn						IN A		203.208.40.146
 
 ;facebook
-fb.me							IN A 		173.252.81.7
-messages-facebook.com					IN A		173.252.81.7
-facebook.net						IN A		173.252.81.7
-facebook.com						IN A		173.252.81.7	
-fbcdn.net						IN A		31.13.66.9
-scontent.xx.fbcdn.net					IN A		31.13.69.203
-video.xx.fbcdn.net					IN A		31.13.95.14
+fb.me							IN A 		219.76.4.14
+messages-facebook.com					IN A		219.76.4.14
+facebook.net						IN A		219.76.4.14
+facebook.com						IN A		219.76.4.14	
+fbcdn.net						IN A		219.76.4.14
+scontent.xx.fbcdn.net					IN A		219.76.4.14
+video.xx.fbcdn.net					IN A		219.76.4.14
 
 *.messages-facebook.com					IN A		219.76.4.14
 *.facebook.net						IN A		219.76.4.14
@@ -117,10 +120,10 @@ video.xx.fbcdn.net					IN A		31.13.95.14
 
 
 ;instagram
-instagram.com						IN A		31.13.95.48
-cdninstagram.com					IN A		31.13.84.52
-*.instagram.com						IN A		31.13.95.48
-*.cdninstagram.com					IN A		31.13.84.52
+instagram.com						IN A		219.76.4.14
+cdninstagram.com					IN A		219.76.4.14
+*.instagram.com						IN A		219.76.4.14
+*.cdninstagram.com					IN A		219.76.4.14
 
 ;onedrive
 onedrive.live.com					IN A		204.79.197.217
@@ -399,9 +402,9 @@ www.flickr.com						IN A		183.177.81.75
 
 ;google
 
-*.ingress.com                                           IN A            220.255.2.153
-*.appspot.com						IN A		220.255.2.153
-*.google.com						IN A		220.255.2.153
+*.ingress.com                                           IN A            219.76.4.14
+*.appspot.com						IN A		219.76.4.14
+*.google.com						IN A		219.76.4.14
 *.google.com.hk						IN A		220.255.2.153
 *.google.co.jp						IN A		220.255.2.153
 *.google.ac						IN A		220.255.2.153
