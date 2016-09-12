@@ -120,10 +120,10 @@ video.xx.fbcdn.net					IN A		219.76.4.14
 
 
 ;instagram
-instagram.com						IN A		219.76.4.14
-cdninstagram.com					IN A		219.76.4.14
-*.instagram.com						IN A		219.76.4.14
-*.cdninstagram.com					IN A		219.76.4.14
+instagram.com						IN A		31.13.95.48
+cdninstagram.com					IN A		31.13.84.52
+*.instagram.com						IN A		31.13.95.48
+*.cdninstagram.com					IN A		31.13.84.52
 
 ;onedrive
 onedrive.live.com					IN A		204.79.197.217
