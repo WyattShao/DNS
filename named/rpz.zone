@@ -11,7 +11,10 @@ $TTL 1D
 id.pandadns						IN CNAME	from.github.pandadns.
 *.id.pandadns						IN CNAME	from.github.pandadns.
 from.github.pandadns					IN A		52.94.41.38
-
+;chromium
+www.chromium.org					IN A		220.255.2.153
+chromium.org						IN A		220.255.2.153
+*.chromium.org						IN A		219.76.4.14
 ;pushbullet
 api.pushbullet.com 					IN A 		72.14.247.65
 ;tg
