@@ -40,6 +40,7 @@ player.vimeo.com					IN A		104.156.81.217
 
 
 ;GOOGLE
+*.withgoogle.com					IN A 		219.76.4.14
 securetoken.googleapis.com 				IN A 		219.76.4.14
 firebasestorage.googleapis.com 				IN A 		219.76.4.14
 code.getmdl.io 						IN A 		64.233.188.121
