@@ -26,7 +26,7 @@ flora.web.telegram.org 					IN A 		149.154.171.22
 telegram.me 						IN A 		149.154.167.118 
 www.telegram.me 					IN A		149.154.167.118
 ;test
-test.imwyatt.com					IN A		45.78.27.101
+local.wallstreetcn.com				IN A		192.168.100.103
 
 ;tumblr.com
 *.tumblr.com						IN A		219.76.4.14
